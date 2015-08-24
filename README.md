@@ -1,6 +1,8 @@
 # Challenge
 Challenge: Rock, Paper, Scissors
+
 David Alexander Artavia Cerdas
+
 dalexander1992@gmail.com
 
 # Self-description
